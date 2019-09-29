@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a8e4a6-95f3-480a-8232-8d23c377846e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RW20WOkMkz7z39Y64MVH1LUZpO" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Workspace/OCP_Programmer_II" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arvin\Desktop\CodingExam\src\com\test\hackerrank" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BudgetShop">
+    <configuration name="BudgetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.hackerrank.BudgetShop" />
+      <module name="CodingExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Main" />
+      <module name="CodingExam" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.codility.MinimumDistance" />
+      <module name="CodingExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfPairsWithEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.codility.NumberOfPairsWithEvenSum" />
+      <module name="CodingExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.NumberOfPairsWithEvenSum" />
+      <item itemvalue="Application.MinimumDistance" />
+      <item itemvalue="Application.BudgetShop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BudgetShop" />
+        <item itemvalue="Application.MinimumDistance" />
+        <item itemvalue="Application.NumberOfPairsWithEvenSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a8e4a6-95f3-480a-8232-8d23c377846e" name="Default Changelist" comment="" />
+      <created>1569768308977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569768308977</updated>
+    </task>
+    <servers />
+  </component>
+</project>
