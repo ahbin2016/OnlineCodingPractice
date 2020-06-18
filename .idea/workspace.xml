@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84a8e4a6-95f3-480a-8232-8d23c377846e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="84a8e4a6-95f3-480a-8232-8d23c377846e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/AsciiCharacterCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/DistinctIntegerShortestDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/FindEvenNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/InterestingTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/InterestingTimeJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/OddSubstractEvenDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/ParseIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/RakutenCodility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/RemoveAABBCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/SiblingsFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/SimpleNumberEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/SwapIntValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/SwapSortAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/equilibrium/EquilibriumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/equilibrium/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/equilibrium/MatrixEquilibriumPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/equilibrium/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/codility/equilibrium/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/collection/ArrayListTruncateLastElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/future/skill/BuyAndSellGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/future/skill/BuyAndSellGoldAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/future/skill/shoesizes/ShoeSizesAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/future/skill/shoesizes/ShoeSizesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/future/skill/shoesizes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/hackerrank/EmployeeMaxStreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/hackerrank/SumMinimumAbsoluteDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +47,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RW20WOkMkz7z39Y64MVH1LUZpO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Workspace/OCP_Programmer_II" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Arvin\Desktop\CodingExam\src\com\test\hackerrank" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.BudgetShop">
     <configuration name="BudgetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -100,6 +133,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -112,5 +157,14 @@
       <updated>1569768308977</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1447" y="257" width="1200" height="597" key="DiffContextDialog" timestamp="1592445659238">
+      <screen x="-1680" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1447" y="257" width="1200" height="597" key="DiffContextDialog/0.23.1440.837/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1592445659238" />
   </component>
 </project>
